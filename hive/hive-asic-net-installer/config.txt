@@ -1,12 +1,12 @@
 # Put the required values here
 
-FARM_HASH=123
+FARM_HASH=47f15985ef6aaa4c88ab7f3a136902d3a7352517
 HIVE_HOST_URL='http://api.hiveos.farm'
 
 LOGIN=root
-PASS=admin
-WEB_LOGIN=root
-WEB_PASS=root
+PASS=blacksheepwall
+WEB_LOGIN=admin
+WEB_PASS=admin
 
 
 URL=
